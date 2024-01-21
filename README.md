@@ -1,9 +1,9 @@
 ### Hi there, i'm CHAEWOON KIM 👋 
 
 #### App Developer
-*서울로봇고등학교 재학 중
-
-+서울로봇고등학교 프로그래밍 동아리 SPAM
+* 서울로봇고등학교 재학 중
++ 두 번째 글머리 기호
+- 세 번째 글머리 기호
 
 🛠️ Stacks
 
