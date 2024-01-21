@@ -1,8 +1,8 @@
 ### Hi there, i'm CHAEWOON KIM 👋 
 
 #### App Developer
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by app
+-서울로봇고등학교 재학 중
+-서울로봇고등학교 프로그래밍 동아리 SPAM
 
 
 🛠️ Stacks
