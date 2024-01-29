@@ -14,8 +14,7 @@
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shrie0602@gmail.com)](shrie0602@gmail.com)
-
+<a href="mailto:shrie0602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shrie0602@gmail.com"/></a></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwnnn&show_icons=true&theme=radical)
 
 
